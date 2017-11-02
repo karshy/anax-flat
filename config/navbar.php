@@ -27,9 +27,9 @@ return [
                 "title" => t("About this website")
             ],
             "test" => [
-                "text"  => t("Me-sida"),
-                "url"   => $this->di->get("url")->create("Me-sida"),
-                "title" => t("Min me-sida")
+                "text"  => t("Index"),
+                "url"   => $this->di->get("url")->create("index"),
+                "title" => t("Index-sida")
             ],
 
 

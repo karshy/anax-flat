@@ -1,4 +1,4 @@
-Contact
+Kontakta Mig?
 ==============================================
 
-Any questions about this site can be emailed to [Mikael Roos](https://mikaelroos.se) on (mos@dbwebb.se).
+Alla frågor kommer besvaras via  [Dags17](https://dags17.bth.se) on (dags17.bth.se).
