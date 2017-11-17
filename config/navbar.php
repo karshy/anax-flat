@@ -62,6 +62,12 @@ return [
                 "url"   => $this->di->get("url")->create("about"),
                 "title" => t("About this website")
             ],
+
+            "index" => [
+                "text"  => t("Index"),
+                "url"   => $this->di->get("url")->create("index"),
+                "title" => t("The homepage of this website")
+            ],
         ],
     ],
 
